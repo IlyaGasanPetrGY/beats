@@ -1,0 +1,20 @@
+.container__pluses {
+    padding: 0;
+}
+
+.pluses__menu {
+    display: flex;
+    padding: 0;
+}
+.pluses__el {
+    list-style: none;
+    margin-right: 3rem;
+    width: 8rem;
+}
+.pluses__lick {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #292929;
+    font-size: 1.2rem;
+}
